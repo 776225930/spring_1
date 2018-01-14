@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://E:/OpenSource/springsource-tool-suite-3.7.3.RELEASE-e4.5.2-updatesite.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
